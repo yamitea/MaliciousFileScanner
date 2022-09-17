@@ -1,5 +1,7 @@
 # MaliciousFileScanner
 
+This app will detect [Specific Application] if it is infected with malicious virus. If the app detects it as virus I recommend you not to open it anymore instead turn on and remove all excluded files on your Anti Virus. Take note that I only add 1 virus to detect that I found.
+
 https://user-images.githubusercontent.com/111002675/190856220-01554212-f4b6-40dd-bead-31df93a476dc.mp4
 
 Infected App
